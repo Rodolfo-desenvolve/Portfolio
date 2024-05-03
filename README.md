@@ -1,17 +1,20 @@
 <h1> Portfólio</h1>
 
-Ver meu histótico na programação: <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Historico</a>.
-
-<hr>
+<br>
+Ver meu histórico na programação: <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Historico</a>.
+<br>
+<br>
 
 <h2>Projeto 1</h2>
 
 <br>
 
 **Em breve** <br>
-Interface: <br>
-Códigos: <br>
-Descrição:
+Nome do Projeto: Indisponivel <br>
+Interface: Indisponivel <br>
+Códigos: Indisponivel<br>
+Função: Indisponivel <br>
+Descrição: Indisponivel
 
 
 <br>
@@ -21,9 +24,11 @@ Descrição:
 <br>
 
 **Em breve** <br>
-Interface: <br>
-Códigos: <br>
-Descrição:
+Nome do Projeto: Indisponivel <br>
+Interface: Indisponivel <br>
+Códigos: Indisponivel<br>
+Função: Indisponivel <br>
+Descrição: Indisponivel
 
 <br>
 
@@ -32,8 +37,10 @@ Descrição:
 <br>
 
 **Em breve** <br>
-Interface: <br>
-Códigos: <br>
-Descrição:
+Nome do Projeto: Indisponivel <br>
+Interface: Indisponivel <br>
+Códigos: Indisponivel <br>
+Função: Indisponivel <br>
+Descrição: Indisponivel
 
 <br>
