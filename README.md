@@ -8,13 +8,10 @@ Ver meu histórico na programação: <a href='https://github.com/Rodolfo-desenvo
 <h2>Projeto 1</h2>
 
 <br>
-
-**Em breve** <br>
-Nome do Projeto: Indisponivel <br>
-Interface: Indisponivel <br>
-Códigos: Indisponivel<br>
-Função: Indisponivel <br>
-Descrição: Indisponivel
+Nome do Projeto: Loja Virtual <br>
+Códigos: Em  <a href='https://rodolfo-desenvolve.github.io/Loja_virtual/'>Loja Virtual</a> <br>
+Função: Simular uma loja virtual de roupas e artigos <br>
+Descrição: Interface front-end feita em html, css e javascripts.
 
 
 <br>
@@ -25,7 +22,6 @@ Descrição: Indisponivel
 
 **Em breve** <br>
 Nome do Projeto: Indisponivel <br>
-Interface: Indisponivel <br>
 Códigos: Indisponivel<br>
 Função: Indisponivel <br>
 Descrição: Indisponivel
@@ -38,7 +34,6 @@ Descrição: Indisponivel
 
 **Em breve** <br>
 Nome do Projeto: Indisponivel <br>
-Interface: Indisponivel <br>
 Códigos: Indisponivel <br>
 Função: Indisponivel <br>
 Descrição: Indisponivel
