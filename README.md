@@ -6,8 +6,8 @@ ver Portfólio: **Em brever**.
 <br>
 Ver meu histórico na programação: <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Historico</a>.
 <br>
-<br>
 
+<hr>
 <h2>Projeto 1</h2>
 
 <br>
@@ -19,9 +19,7 @@ Códigos: Código em  <a href='https://github.com/Rodolfo-desenvolve/Loja_virtua
 Função: Simular uma loja virtual de roupas e artigos. <br>
 Descrição: Interface front-end reponsiva, feita em html, css e javascripts.
 
-<br>
-
-
+<hr>
 <h2>Projeto 2</h2>
 
 <br>
@@ -32,8 +30,7 @@ Códigos: Indisponivel<br>
 Função: Indisponivel <br>
 Descrição: Indisponivel
 
-<br>
-
+<hr>
 <h2>Projeto 3</h2>
 
 <br>
@@ -44,4 +41,4 @@ Códigos: Indisponivel <br>
 Função: Indisponivel <br>
 Descrição: Indisponivel
 
-<br>
+<hr>
