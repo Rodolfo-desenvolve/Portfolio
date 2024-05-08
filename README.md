@@ -8,7 +8,7 @@ Ver meu histórico na programação: <a href='https://github.com/Rodolfo-desenvo
 <br>
 
 <hr>
-<h2>Projeto 1</h2>
+<h2>Projeto 1°</h2>
 
 <br>
 
@@ -20,7 +20,7 @@ Função: Simular uma loja virtual de roupas e artigos. <br>
 Descrição: Interface front-end reponsiva, feita em html, css e javascripts.
 
 <hr>
-<h2>Projeto 2</h2>
+<h2>Projeto 2°</h2>
 
 <br>
 
@@ -31,7 +31,7 @@ Função: Indisponivel <br>
 Descrição: Indisponivel
 
 <hr>
-<h2>Projeto 3</h2>
+<h2>Projeto 3°</h2>
 
 <br>
 
