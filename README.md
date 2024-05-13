@@ -2,7 +2,7 @@
 
 <br>
 
-ver Portfólio: **Em brever**.
+ver Portfólio: Indisponivel.
 <br>
 Ver meu histórico na programação: <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Historico</a>.
 <br>
