@@ -7,7 +7,6 @@ ver Portfólio: Indisponivel.
 Ver meu histórico na programação: <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Historico</a>.
 <br>
 
-<hr>
 <h2>Projeto 1°</h2>
 
 <br>
