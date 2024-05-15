@@ -24,6 +24,7 @@ Descrição: Interface front-end reponsiva, feita em html, css e javascripts.
 <br>
 
 **Em breve** <br>
+
 Nome do Projeto: Academia Virtual. <br>
 Interface: Site em breve. <br>
 Site completo: Em breve.<br>
@@ -37,6 +38,7 @@ Descrição: Interface front-end reponsiva, feita em html, css e javascripts.
 <br>
 
 **Em breve** <br>
+
 Nome do Projeto: Indisponivel <br>
 Códigos: Indisponivel <br>
 Função: Indisponivel <br>
