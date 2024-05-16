@@ -35,9 +35,11 @@ Descrição: Interface front-end reponsiva, feita em html, css e javascripts.
 
 <br>
 
-Nome do Projeto: Indisponivel <br>
-Códigos: Indisponivel <br>
-Função: Indisponivel <br>
-Descrição: Indisponivel
+Nome do Projeto: Indisponivel. <br>
+Interface: Site em breve. <br>
+Site completo: Em breve.<br>
+Códigos: Código em breve. <br>
+Função: Indisponivel.<br>
+Descrição: Indisponivel.<br>
 
 <hr>
