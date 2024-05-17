@@ -19,6 +19,7 @@ Função: Simular uma loja virtual de roupas e artigos. <br>
 Descrição: Interface front-end reponsiva, feita em html, css e javascripts.
 
 <hr>
+
 <h2>Projeto 2°</h2>
 
 <br>
@@ -31,6 +32,7 @@ Função: Simular uma Academia virtual mostrar treinos e alimentações.<br>
 Descrição: Interface front-end reponsiva, feita em html, css e javascripts.
 
 <hr>
+
 <h2>Projeto 3°</h2>
 
 <br>
