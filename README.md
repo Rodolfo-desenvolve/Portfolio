@@ -9,8 +9,6 @@ Ver meu histórico na programação: <a href='https://github.com/Rodolfo-desenvo
 
 <h2>Projeto 1°</h2>
 
-<br>
-
 Nome do Projeto: Loja Virtual. <br>
 Interface: Site em  <a href='https://rodolfo-desenvolve.github.io/Loja_virtual/'>Loja Virtual Site </a>. <br>
 Site completo: Em breve.<br>
@@ -22,8 +20,6 @@ Descrição: Interface front-end reponsiva, feita em html, css e javascripts.
 
 <h2>Projeto 2°</h2>
 
-<br>
-
 Nome do Projeto: Academia Virtual. <br>
 Interface: Site em breve. <br>
 Site completo: Em breve.<br>
@@ -34,8 +30,6 @@ Descrição: Interface front-end reponsiva, feita em html, css e javascripts.
 <hr>
 
 <h2>Projeto 3°</h2>
-
-<br>
 
 Nome do Projeto: Indisponivel. <br>
 Interface: Site em breve. <br>
