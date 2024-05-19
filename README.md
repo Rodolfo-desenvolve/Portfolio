@@ -4,7 +4,7 @@
 
 ver Portfólio: Indisponivel.
 <br>
-Outros códigos: <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Historico</a>.
+Ver outros códigos: <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Historico</a>.
 <br>
 
 <h2>Projeto 1°</h2>
