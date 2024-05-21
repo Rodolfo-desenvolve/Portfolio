@@ -20,7 +20,7 @@ Descrição: Interface front-end reponsiva, feita em html, css e javascripts.
 <h2>Projeto 2°</h2>
 
 Nome do Projeto: Academia Virtual. <br>
-Interface: Site em <a href='https://rodolfo-desenvolve.github.io/Loja_virtual/'>Academia Virtual Site </a>. <br>
+Interface: Site em <a href='https://rodolfo-desenvolve.github.io/academia_virtual/index.html'>Academia Virtual Site </a>. <br>
 Site completo: Em breve.<br>
 Códigos: Código em <a href='https://github.com/Rodolfo-desenvolve/academia_virtual/tree/main'>Academia Virtual Código</a>. <br>
 Função: Simular uma Academia virtual mostrar treinos e alimentações.<br>
