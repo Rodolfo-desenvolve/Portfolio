@@ -1,7 +1,5 @@
 <h1> Portfólio</h1>
 
-<br>
-
 ver Portfólio: Indisponivel.<br>
 
 Ver outros códigos: <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Historico</a>.<br>
