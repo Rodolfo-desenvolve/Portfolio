@@ -13,6 +13,7 @@ Site completo: Em breve.<br>
 Códigos: Código em  <a href='https://github.com/Rodolfo-desenvolve/Loja_virtual'>Loja Virtual Código</a>. <br>
 Função: Simular uma loja virtual de roupas e artigos. <br>
 Descrição: Interface front-end reponsiva, feita em html, css e javascripts.
+Descrição²: Back-end feito em python e django.
 
 <h2>Projeto 2°</h2>
 
@@ -22,6 +23,7 @@ Site completo: Em breve.<br>
 Códigos: Código em <a href='https://github.com/Rodolfo-desenvolve/academia_virtual/tree/main'>Academia Virtual Código</a>. <br>
 Função: Simular uma Academia virtual mostrar treinos e alimentações.<br>
 Descrição: Interface front-end reponsiva, feita em html, css e javascripts.
+Descrição²: Back-end feito em python e django.
 
 <h2>Projeto 3°</h2>
 
