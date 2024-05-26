@@ -1,4 +1,3 @@
-<hr>
 <h1> Portfólio</h1>
 
 ver Portfólio: Indisponivel.<br>
@@ -33,5 +32,3 @@ Site completo: Em breve.<br>
 Códigos: Código em breve. <br>
 Função: Indisponivel.<br>
 Descrição: Indisponivel.<br>
-
-<hr>
