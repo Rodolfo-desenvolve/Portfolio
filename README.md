@@ -2,7 +2,7 @@
 
 ver Portfólio: Indisponivel.<br>
 
-Ver outros projetos: <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Projetos-desktop</a>.<br>
+Ver outros projetos: <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Projetos-desktop</a>.<br><br>
 
 <h2>Projeto 1°</h2><br>
 
