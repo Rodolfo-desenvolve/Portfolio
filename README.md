@@ -32,5 +32,5 @@ Site completo: Em breve.<br>
 Códigos: Código em breve. <br>
 Função: Indisponivel.<br>
 Descrição¹: Indisponivel.<br>
-Descrição²: Indisponivel.<br><br><br>
+Descrição²: Indisponivel.<br><br>
 
