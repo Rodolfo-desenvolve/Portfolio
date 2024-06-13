@@ -24,13 +24,3 @@ Função: Simular uma Academia virtual mostrar treinos e alimentações.<br>
 Descrição¹: Interface front-end reponsiva, feita em html, css e javascripts.<br>
 Descrição²: Back-end feito em python e django.<br><br>
 
-<h2>Projeto 3°:</h2><br>
-
-Nome do Projeto: Indisponivel. <br>
-Interface: Site em breve. <br>
-Site completo: Em breve.<br>
-Códigos: Código em breve. <br>
-Função: Indisponivel.<br>
-Descrição¹: Indisponivel.<br>
-Descrição²: Indisponivel.<br><br>
-
