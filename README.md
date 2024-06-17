@@ -1,10 +1,10 @@
-<h1> Portfólio</h1>
+<h1> Portfólio</h1><br>
 
 ver Portfólio: Indisponivel.<br>
 
 Ver outros projetos: <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Projetos-desktop</a>.<br><br>
 
-<h2>Projeto 1°:</h2>
+<h2>Projeto 1°:</h2><br>
 
 Nome do Projeto: Loja Virtual. <br>
 Interface: Site em  <a href='https://rodolfo-desenvolve.github.io/Loja_virtual/'>Loja Virtual Site </a>. <br>
