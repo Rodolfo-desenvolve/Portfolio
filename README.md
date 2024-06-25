@@ -1,7 +1,7 @@
 <h1> Portfólio</h1>
 
 
-ver Portfólio: Indisponivel.<br><br>
+ver Portfólio: Indisponivel.<br>
 
 Ver outros projetos: <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Projetos-desktop</a>.<br>
 
