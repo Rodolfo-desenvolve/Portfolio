@@ -5,7 +5,7 @@ ver Portfólio: Indisponivel.<br>
 
 Ver outros projetos: <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Projetos-desktop</a>.<br>
 
-<h2>Projeto 1°:</h2><br>
+<h2>Projeto 1°:</h2>
 
 
 Nome do Projeto: Loja Virtual. <br>
@@ -17,7 +17,7 @@ Descrição¹: Interface front-end reponsiva, feita em html, css e javascripts.<
 Descrição²: Back-end feito em python e django.<br><br>
 
 
-<h2>Projeto 2°:</h2><br>
+<h2>Projeto 2°:</h2>
 
 
 Nome do Projeto: Academia Virtual. <br>
